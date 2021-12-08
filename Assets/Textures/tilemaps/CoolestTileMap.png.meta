@@ -1,0 +1,984 @@
+fileFormatVersion: 2
+guid: 233e3d0aac0013448859836fe83aed7c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5902002411962811640
+    second: CoolestTileMap_0
+  - first:
+      213: -6801934626473257483
+    second: CoolestTileMap_1
+  - first:
+      213: 2434626466106058864
+    second: CoolestTileMap_2
+  - first:
+      213: -6729881153208447189
+    second: CoolestTileMap_3
+  - first:
+      213: 3638097239215365971
+    second: CoolestTileMap_4
+  - first:
+      213: -1035695762458499103
+    second: CoolestTileMap_5
+  - first:
+      213: -8557622813488197091
+    second: CoolestTileMap_6
+  - first:
+      213: -2328432529787606915
+    second: CoolestTileMap_7
+  - first:
+      213: 5280239947132716403
+    second: CoolestTileMap_8
+  - first:
+      213: -1134713892695273625
+    second: CoolestTileMap_9
+  - first:
+      213: 4899970068079685716
+    second: CoolestTileMap_10
+  - first:
+      213: -4799971846857306596
+    second: CoolestTileMap_11
+  - first:
+      213: -8501959993252159860
+    second: CoolestTileMap_12
+  - first:
+      213: 759559821547410163
+    second: CoolestTileMap_13
+  - first:
+      213: -2226831916666182601
+    second: CoolestTileMap_14
+  - first:
+      213: 6090783451729326667
+    second: CoolestTileMap_15
+  - first:
+      213: 1686103222308617485
+    second: CoolestTileMap_16
+  - first:
+      213: 8032523750798593828
+    second: CoolestTileMap_17
+  - first:
+      213: 1118631033931586296
+    second: CoolestTileMap_18
+  - first:
+      213: -8443493576334415315
+    second: CoolestTileMap_19
+  - first:
+      213: -5607147865671949535
+    second: CoolestTileMap_20
+  - first:
+      213: -4881773058398865532
+    second: CoolestTileMap_21
+  - first:
+      213: -261360283554819225
+    second: CoolestTileMap_22
+  - first:
+      213: -2395075552076847542
+    second: CoolestTileMap_23
+  - first:
+      213: 8747899669303407148
+    second: CoolestTileMap_24
+  - first:
+      213: -544081360718587053
+    second: CoolestTileMap_25
+  - first:
+      213: 8144487190556321238
+    second: CoolestTileMap_26
+  - first:
+      213: 5007430224986357264
+    second: CoolestTileMap_27
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CoolestTileMap_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: -24}
+        - {x: -24, y: -24}
+        - {x: -24, y: 24}
+        - {x: 32, y: 24}
+        - {x: 32, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b35739310e71ea0800000000000000
+      internalID: -5902002411962811640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoolestTileMap_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 32}
+        - {x: -32, y: 24}
+        - {x: 32, y: 24}
+        - {x: 32, y: 32}
+      - - {x: -32, y: -32}
+        - {x: -32, y: -24}
+        - {x: 32, y: -24}
+        - {x: 32, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5d1a3de7caa91a0800000000000000
+      internalID: -6801934626473257483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoolestTileMap_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 32}
+        - {x: -32, y: 24}
+        - {x: 24, y: 24}
+        - {x: 24, y: -24}
+        - {x: -32, y: -24.070099}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07824092fd789c120800000000000000
+      internalID: 2434626466106058864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoolestTileMap_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+      - - {x: -24, y: -24}
+        - {x: -24, y: 24}
+        - {x: 24, y: 24}
+        - {x: 24, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f0a626fb8aa92a0800000000000000
+      internalID: -6729881153208447189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoolestTileMap_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 24, y: -24}
+        - {x: 24, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35fd2c1e92e1d7230800000000000000
+      internalID: 3638097239215365971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoolestTileMap_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: -24}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7a84ff03870a1f0800000000000000
+      internalID: -1035695762458499103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoolestTileMap_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: -24}
+        - {x: -32, y: -32}
+        - {x: -24, y: -32}
+        - {x: -24, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12d14034673d3980800000000000000
+      internalID: -8557622813488197091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoolestTileMap_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: -24, y: -32}
+        - {x: -24, y: 24}
+        - {x: 24, y: 24}
+        - {x: 24, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78ab8263febfafd0800000000000000
+      internalID: -2328432529787606915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoolestTileMap_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 24, y: 32}
+        - {x: 24, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3754ca9814e274940800000000000000
+      internalID: 5280239947132716403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoolestTileMap_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f82300abfa040f0800000000000000
+      internalID: -1134713892695273625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoolestTileMap_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: -24, y: -32}
+        - {x: -24, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450bfe5d0d0300440800000000000000
+      internalID: 4899970068079685716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoolestTileMap_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: -24, y: -32}
+        - {x: -24, y: 32}
+      - - {x: 24, y: -32}
+        - {x: 24, y: 32}
+        - {x: 32, y: 32}
+        - {x: 32, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ec1306903136db0800000000000000
+      internalID: -4799971846857306596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoolestTileMap_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 24, y: 32}
+        - {x: 24, y: 24}
+        - {x: 32, y: 24}
+        - {x: 32, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e5f937e68f20a80800000000000000
+      internalID: -8501959993252159860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoolestTileMap_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 32}
+        - {x: -32, y: 24}
+        - {x: 32, y: 24}
+        - {x: 32, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f21ef422af7a8a00800000000000000
+      internalID: 759559821547410163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoolestTileMap_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 32}
+        - {x: -32, y: 24}
+        - {x: -24, y: 24}
+        - {x: -24, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7342c988b24b811e0800000000000000
+      internalID: -2226831916666182601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoolestTileMap_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 24.070145, y: 32}
+        - {x: 24, y: -24}
+        - {x: -24, y: -24}
+        - {x: -23.861282, y: 32}
+        - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42772c674fc68450800000000000000
+      internalID: 6090783451729326667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoolestTileMap_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: -24, y: -32}
+        - {x: -24, y: 24}
+        - {x: 32, y: 24.070099}
+        - {x: 32, y: 32}
+      - - {x: 24, y: -32}
+        - {x: 24, y: -24}
+        - {x: 32, y: -24}
+        - {x: 32, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0db85482fd366710800000000000000
+      internalID: 1686103222308617485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoolestTileMap_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 32}
+        - {x: -32, y: 24.070145}
+        - {x: 24, y: 24}
+        - {x: 24, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+      - - {x: -32, y: -32}
+        - {x: -32, y: -24}
+        - {x: -24, y: -24}
+        - {x: -24, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f0d301bc1497f60800000000000000
+      internalID: 8032523750798593828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoolestTileMap_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: -24}
+        - {x: -32, y: -32}
+        - {x: -24, y: -32}
+        - {x: -24, y: -24}
+      - - {x: 24, y: -32}
+        - {x: 24, y: -24}
+        - {x: 32, y: -24}
+        - {x: 32, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa5834affc268f00800000000000000
+      internalID: 1118631033931586296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoolestTileMap_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: -24}
+        - {x: -32, y: -32}
+        - {x: -24, y: -32}
+        - {x: -24, y: -24}
+      - - {x: -32, y: 24}
+        - {x: -32, y: 32}
+        - {x: -24, y: 32}
+        - {x: -24, y: 24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a6b4fe35fa2da80800000000000000
+      internalID: -8443493576334415315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoolestTileMap_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: 32}
+        - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: -24}
+        - {x: -24, y: -24}
+      - - {x: 24, y: 24}
+        - {x: 24, y: 32}
+        - {x: 32, y: 32}
+        - {x: 32, y: 24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123a88f59b86f22b0800000000000000
+      internalID: -5607147865671949535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoolestTileMap_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 24, y: 32}
+        - {x: 24, y: -24}
+        - {x: -32, y: -24}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+      - - {x: -32, y: 24}
+        - {x: -32, y: 32}
+        - {x: -24, y: 32}
+        - {x: -24, y: 24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4873014a445704cb0800000000000000
+      internalID: -4881773058398865532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoolestTileMap_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 24, y: 32}
+        - {x: 24, y: 24}
+        - {x: 32, y: 24}
+        - {x: 32, y: 32}
+      - - {x: 24, y: -32}
+        - {x: 24, y: -24}
+        - {x: 32, y: -24}
+        - {x: 32, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763d154f4367f5cf0800000000000000
+      internalID: -261360283554819225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoolestTileMap_23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 24, y: 32}
+        - {x: 24, y: 24}
+        - {x: 32, y: 24}
+        - {x: 32, y: 32}
+      - - {x: -32, y: 24}
+        - {x: -32, y: 32}
+        - {x: -24, y: 32}
+        - {x: -24, y: 24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46ac3c997bf2ced0800000000000000
+      internalID: -2395075552076847542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoolestTileMap_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 32}
+        - {x: -32, y: 24}
+        - {x: 32, y: 24}
+        - {x: 32, y: 32}
+      - - {x: -32, y: -32}
+        - {x: -32, y: -24}
+        - {x: -24, y: -24}
+        - {x: -24, y: -32}
+      - - {x: 24, y: -32}
+        - {x: 24, y: -24}
+        - {x: 32, y: -24}
+        - {x: 32, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22369f9668c66970800000000000000
+      internalID: 8747899669303407148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoolestTileMap_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 24, y: 32}
+        - {x: 24, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+      - - {x: -32, y: 24}
+        - {x: -32, y: 32}
+        - {x: -24, y: 32}
+        - {x: -24, y: 24}
+      - - {x: -32, y: -32}
+        - {x: -32, y: -24}
+        - {x: -24, y: -24}
+        - {x: -24, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b157592e80378f0800000000000000
+      internalID: -544081360718587053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoolestTileMap_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: -24, y: -32}
+        - {x: -24, y: 32}
+      - - {x: 24, y: -32}
+        - {x: 24, y: -24}
+        - {x: 32, y: -24}
+        - {x: 32, y: -32}
+      - - {x: 24, y: 24}
+        - {x: 24, y: 32}
+        - {x: 32, y: 32}
+        - {x: 32, y: 24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d524dec2f7070170800000000000000
+      internalID: 8144487190556321238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoolestTileMap_27
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: -24}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: -24}
+      - - {x: -32, y: 24}
+        - {x: -32, y: 32}
+        - {x: -24, y: 32}
+        - {x: -24, y: 24}
+      - - {x: 24, y: 24}
+        - {x: 24, y: 32}
+        - {x: 32, y: 32}
+        - {x: 32, y: 24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ebdd55247fd7540800000000000000
+      internalID: 5007430224986357264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
